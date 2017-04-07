@@ -24,7 +24,7 @@ If you're having trouble, checkout the [example project]!
 Add the following to your `Gemfile`:
 
 ```ruby
-gem "ember-cli-rails"
+gem "glimmer-rails"
 ```
 
 Then run `bundle install`:
